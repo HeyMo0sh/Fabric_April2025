@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "03 - Project to Gold"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "3244d16b-491f-b40d-4243-9ab2a602726a"
+  }
+}

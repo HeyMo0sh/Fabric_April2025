@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "02 - Process into Silver"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "cf9b95f1-9c4f-a216-4255-4fa30d4da78b"
+  }
+}
